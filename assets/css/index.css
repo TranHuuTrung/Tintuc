@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.pr-30{
+  padding-right: 30px;
+}
+img{
+  min-width: 100%;
+  max-width: 100%;
+}
+@media screen and (min-width: 992px){
+  .content{
+    padding: 0px;
+  }
+}
+.main-content{
+  margin-bottom: 30px;
+}
+.news-post>a{
+  font-size: 16px;
+  display: block;
+  margin-top: 10px; 
+  margin-bottom: 10px;
+}
+.news-link a, .news-post a{
+  color: #333;
+  font-weight: 700;
+}
+.news-link a:hover, .news-link a:active, .news-post a:hover, .news-post a:active{
+  text-decoration: none;
+  color: #78b43d;
+}
+.news-link p{
+  font-size: 14px;
+  color: #000;
+}
+.post-highlight .news-link a{
+  font-size: 17px;
+  line-height: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+}
+.post-highlight-thumb img{
+  height: 280px;
+  min-height: 280px;
+}
+.sp-news-sologan{
+  position: absolute;
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #78b43d;
+  color: #fff;
+  padding: 5px 6px 2px;
+  top: 10px;
+}
+/* Sidebar */
+@media screen and (min-width: 992px){
+  .sidebar{
+    border-left: 2px solid #eee;
+  }
+}
+@media screen and (max-width: 767px){
+  .linkpost-feature{
+    clear: both;
+  }
+}
+.widget-sidebar{
+  margin-top: 20px;
+  margin-bottom: 20px; 
+}
+.widget-sidebar>p{
+  text-transform: uppercase;
+  font-size: 18px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #eee;
+}
+
+.news-post{
+  margin-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 15px; 
+}
+.thumb{
+  width: 130px;
+  max-height: 100px;
+  margin-right: 8px;
+  /* height: 100px; */
+}
+.thumb img{
+  min-height: 90px;
+  max-height: 100px;
+}
+/* widget hot category*/
+.widget-title a {
+  background-color: #378b36;
+  color: #fff;
+  padding: 5px 10px;
+}
+.widget-title a:hover , .widget-title a:active , .news-post a:hover, .news-post a:active{
+  text-decoration: none;
+}
+.widget-thumb{
+  width: 200px;
+  max-height: 160px;
+  margin-right: 8px;
+}
+.widget-thumb img{
+  min-height: 140px;
+  max-height: 160px;
+}
+.widget-title {
+  font-size: 19px;
+  font-weight: 600;
+  border-bottom: 2px solid #378b36;
+}
+.linkpost-feature{
+  padding-top: 10px;
+}
