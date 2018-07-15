@@ -1,5 +1,6 @@
 nav.navbar{
   border-radius: 0px;
+  margin-bottom: 10px;
 }
 #logo {
   width: 150px;
@@ -30,6 +31,13 @@ nav.navbar{
   .main-menu{
     padding-bottom: 10px;
   }
+  .pl-sm-15{
+    padding-left: 15px;
+  }
+}
+.date-curent {
+  color: #78b43d;
+  font-weight: 600px;
 }
 .main-menu .navbar-nav>li>a:hover{
   background-color: #78b43d;

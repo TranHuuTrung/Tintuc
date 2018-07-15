@@ -2,7 +2,9 @@
   
   <!-- main content -->
   <div class="container main-content">
-    
+    <div class="row mb-10 pl-sm-15 date-curent">
+      Thứ 2, 16/08/2018
+    </div>
     <div class="row">
       <div class="col-xs-12 col-md-8 content">
         <div class="row">
@@ -20,16 +22,16 @@
             </div>
           </div>
           <div class="col-md-5 row">
-            <div class="col-xs-6 col-sm-12 news-post">
+            <div class="col-xs-12 news-post">
               <div class="thumb fl-left">
-              <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+                <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
               </div>
               <div class="news-link">
                 <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
                 <p>Sau yêu cầu của Thủ tướng Chính phủ, Bộ Tài chính vừa đề xuất bổ sung thêm quy định để ...</p>
               </div>
             </div>
-            <div class="col-xs-6 col-sm-12 news-post">
+            <div class="col-xs-12 news-post">
               <div class="thumb fl-left">
               <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
               </div>
@@ -38,7 +40,7 @@
                 <p>Sau yêu cầu của Thủ tướng Chính phủ, Bộ Tài chính vừa đề xuất bổ sung thêm quy định để ...</p>
               </div>
             </div>
-            <div class="col-xs-6 col-sm-12 news-post">
+            <div class="col-xs-12 news-post">
               <div class="thumb fl-left">
               <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
               </div>
@@ -52,7 +54,7 @@
         <!-- Widget hot category -->
         <!-- SỰ KIỆN -->
         <div class="row wiget-category">
-          <div class="col-sm-12">
+          <div class="col-sm-12 pr-30">
             <div class="widget-title">
               <a href="./category.php"> SỰ KIỆN</a>
             </div>
@@ -68,20 +70,22 @@
             </div>
           </div>
           <div class="col-sm-5 linkpost-feature">
-            <div class="row news-post">
-              <div class="thumb fl-left">
-                <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+            <div class="row">
+              <div class="col-xs-6 col-sm-12 news-post">
+                <div class="thumb fl-left">
+                  <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+                </div>
+                <div class="news-link">
+                  <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+                </div>
               </div>
-              <div class="news-link">
-                <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
-              </div>
-            </div>
-            <div class="row news-post">
-              <div class="thumb fl-left">
-                <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
-              </div>
-              <div class="news-link">
-                <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+              <div class="col-xs-6 col-sm-12 news-post">
+                <div class="thumb fl-left">
+                  <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
+                </div>
+                <div class="news-link">
+                  <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+                </div>
               </div>
             </div>
           </div>
@@ -104,20 +108,22 @@
             </div>
           </div>
           <div class="col-sm-5 linkpost-feature">
-            <div class="row news-post">
-              <div class="thumb fl-left">
-                <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+            <div class="row">
+              <div class="col-xs-6 col-sm-12 news-post">
+                <div class="thumb fl-left">
+                  <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+                </div>
+                <div class="news-link">
+                  <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+                </div>
               </div>
-              <div class="news-link">
-                <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
-              </div>
-            </div>
-            <div class="row news-post">
-              <div class="thumb fl-left">
-                <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
-              </div>
-              <div class="news-link">
-                <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+              <div class="col-xs-6 col-sm-12 news-post">
+                <div class="thumb fl-left">
+                  <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
+                </div>
+                <div class="news-link">
+                  <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+                </div>
               </div>
             </div>
           </div>
@@ -140,20 +146,22 @@
             </div>
           </div>
           <div class="col-sm-5 linkpost-feature">
-            <div class="row news-post">
-              <div class="thumb fl-left">
-                <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+            <div class="row">
+              <div class="col-xs-6 col-sm-12 news-post">
+                <div class="thumb fl-left">
+                  <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+                </div>
+                <div class="news-link">
+                  <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+                </div>
               </div>
-              <div class="news-link">
-                <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
-              </div>
-            </div>
-            <div class="row news-post">
-              <div class="thumb fl-left">
-                <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
-              </div>
-              <div class="news-link">
-                <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+              <div class="col-xs-6 col-sm-12 news-post">
+                <div class="thumb fl-left">
+                  <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
+                </div>
+                <div class="news-link">
+                  <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+                </div>
               </div>
             </div>
           </div>
@@ -176,20 +184,22 @@
             </div>
           </div>
           <div class="col-sm-5 linkpost-feature">
-            <div class="row news-post">
-              <div class="thumb fl-left">
-                <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+            <div class="row">
+              <div class="col-xs-6 col-sm-12 news-post">
+                <div class="thumb fl-left">
+                  <a href="./detail-post.php"><img src="assets/images/hinh5.png" class="img-responsive" alt=""></a>
+                </div>
+                <div class="news-link">
+                  <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+                </div>
               </div>
-              <div class="news-link">
-                <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
-              </div>
-            </div>
-            <div class="row news-post">
-              <div class="thumb fl-left">
-                <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
-              </div>
-              <div class="news-link">
-                <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+              <div class="col-xs-6 col-sm-12 news-post">
+                <div class="thumb fl-left">
+                  <a href="./detail-post.php"><img src="assets/images/hinh1.png" class="img-responsive" alt=""></a>
+                </div>
+                <div class="news-link">
+                  <a href="./detail-post.php">Người nộp thuế sẽ có thêm quyền “đòi và lắc đầu”</a>
+                </div>
               </div>
             </div>
           </div>

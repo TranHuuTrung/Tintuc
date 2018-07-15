@@ -1,5 +1,5 @@
 <div class="col-md-4 sidebar">
-  <img class="img-responsive" src="assets/images/hinh1.png" alt="">
+  <img class="img-responsive hidden-xs" src="assets/images/hinh1.png" alt="">
   <div class="widget-sidebar most-read">
     <p>Đọc nhiều nhất</p>
     <div class="row news-post">
@@ -42,5 +42,5 @@
       </div>
     </div>
   </div>
-  <img class="img-responsive" src="assets/images/hinh0.png" alt="ads">
+  <img class="img-responsive hidden-sm" src="assets/images/hinh0.png" alt="ads">
 </div>

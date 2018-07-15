@@ -12,17 +12,19 @@
   <link rel="stylesheet" href="assets/css/header.css">
   <link rel="stylesheet" href="assets/css/footer.css">
   <link rel="stylesheet" href="assets/css/category.css">
+  <link rel="stylesheet" href="assets/css/detailposts.css">  
 </head>
 <body>
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.0';
-        fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.0';
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+  </script>
+    
   <nav class="navbar navbar-default" role="navigation">
     <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -41,7 +43,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-ex1-collapse main-menu">
       <ul class="nav navbar-nav">
-        <li><a href="./category.php">Trang chủ</a></li>
+        <li><a href="./">Trang chủ</a></li>
         <li><a href="./category.php">Sự kiện</a></li>
         <li><a href="./category.php">Xã hội</a></li>
         <li><a href="./category.php">Giáo dục</a></li>

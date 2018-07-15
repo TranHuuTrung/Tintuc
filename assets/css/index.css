@@ -36,6 +36,9 @@ img{
   font-size: 14px;
   color: #000;
 }
+.widget-sidebar .news-link p{
+  font-size: 13px;
+}
 .post-highlight .news-link a{
   font-size: 17px;
   line-height: 20px;
@@ -83,7 +86,15 @@ img{
   padding-right: 15px;
   padding-left: 15px; 
 }
+
+@media screen and (max-width: 991px){
+  .clear-xs-992{
+    clear: both;
+    padding-top: 10px;
+  }
+}
 .thumb{
+  display: block;
   width: 130px;
   max-height: 100px;
   margin-right: 8px;
